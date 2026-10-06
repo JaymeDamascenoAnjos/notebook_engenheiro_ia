@@ -24,5 +24,10 @@ Nas pesquisas foram usadas as configurações Web e Deep Research
 
 Pergunta: Como criar um agente em python usando a API?
 
+Arquivos: 
+    1. material/Agente.pdf (Print Pergunta/Resposta)
+    2. material/NotebookLM Mind Map.png (Mapa Mental)
+    3. material/Apresentacao.ppt (Apresentação)
+
 Link repositório: https://github.com/JaymeDamascenoAnjos/notebook_engenheiro_ia.git
 Link Notebook: https://notebook.google.com/notebook/a4d8cde0-1038-4c38-a45f-0188dfd185f5
