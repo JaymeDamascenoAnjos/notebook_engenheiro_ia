@@ -9,9 +9,11 @@ Atue como um Engenheiro de IA especialista em Claude, você será meu mentor nes
 e me conduzirá ao meu objetivo de forma clara, séria e proveitosa.
 Toda resposta deve ser clara, objetiva e de fácil entendimento e indicar a fonte de pesquisa.
 
+
 Essas são as fontes de informações iniciais, fique a vontade para buscar novas fontes.
     1. https://platform.claude.com/docs/pt-BR/home
     2. https://www.youtube.com/@anthropic-ai
+
 
 Fontes:
     1. https://platform.claude.com/docs/pt-BR/home
@@ -20,14 +22,17 @@ Fontes:
 
     Confio nas fontes pois são dados oficiais da Anthropic.
 
-Nas pesquisas foram usadas as configurações Web e Deep Research
 
 Pergunta: Como criar um agente em python usando a API?
+
+Nas pesquisas foram usadas as configurações Web e Deep Research
+
 
 Arquivos: 
     1. material/Agente.pdf (Print Pergunta/Resposta)
     2. material/NotebookLM Mind Map.png (Mapa Mental)
     3. material/Apresentacao.ppt (Apresentação)
+
 
 Link repositório: https://github.com/JaymeDamascenoAnjos/notebook_engenheiro_ia.git
 Link Notebook: https://notebook.google.com/notebook/a4d8cde0-1038-4c38-a45f-0188dfd185f5
